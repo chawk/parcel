@@ -31,7 +31,6 @@ describe('graphql', function() {
           firstName
           lastName
         }
-
       `.definitions
     );
   });
@@ -70,7 +69,6 @@ describe('graphql', function() {
           address
           email
         }
-
       `.definitions
     );
   });
